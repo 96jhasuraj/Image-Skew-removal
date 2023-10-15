@@ -1,0 +1,3 @@
+,input,output,skew
+0,input_val\image.png,output_val\image.png,[-9.78590868]
+1,input_val\img.png,output_val\img.png,[1.67324722]
